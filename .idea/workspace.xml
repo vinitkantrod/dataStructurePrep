@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/decisionMaking/Medium_PaintHouse_256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/Easy_TimeNeededToBuyTicket_2073.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Easy_BestTimeToBuyAndSellStock_121.executor": "Run",
+    "Application.Easy_TimeNeededToBuyTicket_2073.executor": "Run",
     "Application.Hard_BuyAndSellStockThree_123.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Medium_BestTimeToBuyAndSellStockTwo_122.executor": "Run",
@@ -57,13 +58,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_PaintHouse_256">
-    <configuration name="Hard_BuyAndSellStockThree_123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.dp.leetcode.decisionMaking.Hard_BuyAndSellStockThree_123" />
+  <component name="RunManager" selected="Application.Easy_TimeNeededToBuyTicket_2073">
+    <configuration name="Easy_TimeNeededToBuyTicket_2073" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.array.leetcode.Easy_TimeNeededToBuyTicket_2073" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.dp.leetcode.decisionMaking.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_TimeNeededToBuyTicket_2073" />
         <item itemvalue="Application.Medium_PaintHouse_256" />
         <item itemvalue="Application.Medium_BestTimeToBuyAndSellStockWithTransactionFee_714" />
         <item itemvalue="Application.Medium_HouseRobber_198" />
         <item itemvalue="Application.Medium_MaximumProfitFromTradingStock_2291" />
-        <item itemvalue="Application.Hard_BuyAndSellStockThree_123" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="13482000" />
+      <workItem from="1712637264922" duration="14925000" />
     </task>
     <servers />
   </component>
