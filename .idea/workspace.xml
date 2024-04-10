@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/Medium_RevealCardInIncreasingOrder_950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/twoPointer/Medium_LongestSubstringWithAtMostTwoDistinctChar_159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/bst/leetcode/Medium_VerifyPreOrderSequenceInBST_255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/twoPointers/runningFromBothEnd/twoSumPatterns/Easy_TwoSumTwo_167.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="24817000" />
+      <workItem from="1712637264922" duration="25996000" />
     </task>
     <servers />
   </component>
