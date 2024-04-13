@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MaximalRectangle_85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/stack/leetcode/monotonicStack/Hard_LargestRectangleInHistogram_84.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_GraphValidTree_261.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_GraphValidTree_261.java" afterDir="false" />
     </list>
@@ -42,6 +44,7 @@
     "Application.Easy_SimpleMergeSort.executor": "Run",
     "Application.Easy_TimeNeededToBuyTicket_2073.executor": "Run",
     "Application.Hard_BuyAndSellStockThree_123.executor": "Run",
+    "Application.Hard_LargestRectangleInHistogram_84.executor": "Run",
     "Application.Hard_NumberOfIslandTwo_305.executor": "Run",
     "Application.Hard_medianOfTwoSortedArray_4.executor": "Run",
     "Application.Hard_trappingRainWater_42.executor": "Run",
@@ -71,13 +74,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_NumberOfProvinces_547">
-    <configuration name="Hard_NumberOfIslandTwo_305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Hard_NumberOfIslandTwo_305" />
+  <component name="RunManager" selected="Application.Hard_LargestRectangleInHistogram_84">
+    <configuration name="Hard_LargestRectangleInHistogram_84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.stack.leetcode.monotonicStack.Hard_LargestRectangleInHistogram_84" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.uber.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.stack.leetcode.monotonicStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard_medianOfTwoSortedArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Hard_medianOfTwoSortedArray_4" />
+    <configuration name="Hard_NumberOfIslandTwo_305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Hard_NumberOfIslandTwo_305" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hard_LargestRectangleInHistogram_84" />
         <item itemvalue="Application.Medium_NumberOfProvinces_547" />
         <item itemvalue="Application.Medium_ContainerWithMostWater_11" />
         <item itemvalue="Application.Hard_trappingRainWater_42" />
         <item itemvalue="Application.Hard_NumberOfIslandTwo_305" />
-        <item itemvalue="Application.Hard_medianOfTwoSortedArray_4" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="51911000" />
+      <workItem from="1712637264922" duration="55577000" />
     </task>
     <servers />
   </component>
