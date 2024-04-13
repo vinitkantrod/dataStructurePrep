@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MaximalRectangle_85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/stack/leetcode/monotonicStack/Hard_LargestRectangleInHistogram_84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_NumberOfConnectedComponent_323.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_GraphValidTree_261.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_GraphValidTree_261.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MaximalRectangle_85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MaximalRectangle_85.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     "Application.Medium_HouseRobber_198.executor": "Run",
     "Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor": "Run",
     "Application.Medium_MaximumProfitFromTradingStock_2291.executor": "Run",
+    "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
     "Application.Medium_PaintHouse_256.executor": "Run",
     "Application.Medium_RemoveKDigitFromNumber_402.executor": "Run",
@@ -74,26 +74,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hard_LargestRectangleInHistogram_84">
+  <component name="RunManager" selected="Application.Medium_NumberOfConnectedComponent_323">
     <configuration name="Hard_LargestRectangleInHistogram_84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.stack.leetcode.monotonicStack.Hard_LargestRectangleInHistogram_84" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.vinit.datastructure.stack.leetcode.monotonicStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hard_NumberOfIslandTwo_305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Hard_NumberOfIslandTwo_305" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.uber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_NumberOfConnectedComponent_323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_NumberOfConnectedComponent_323" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.disjointSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Medium_NumberOfProvinces_547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_NumberOfProvinces_547" />
       <module name="data_structure_and_algorithm" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_NumberOfConnectedComponent_323" />
         <item itemvalue="Application.Hard_LargestRectangleInHistogram_84" />
         <item itemvalue="Application.Medium_NumberOfProvinces_547" />
         <item itemvalue="Application.Medium_ContainerWithMostWater_11" />
         <item itemvalue="Application.Hard_trappingRainWater_42" />
-        <item itemvalue="Application.Hard_NumberOfIslandTwo_305" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="55577000" />
+      <workItem from="1712637264922" duration="57937000" />
     </task>
     <servers />
   </component>
