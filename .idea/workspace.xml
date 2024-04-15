@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/Medium_FindTriangluarSumOfAnArray_2221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Easy_CalculateDigitSumOfString_2243.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,7 @@
     "Application.Easy_BestTimeToBuyAndSellStock_121.executor": "Run",
     "Application.Easy_CalculateDigitSumOfString_2243.executor": "Run",
     "Application.Easy_IntersectionOfTwoArrays_349.executor": "Run",
+    "Application.Easy_MinMaxGame_2293.executor": "Run",
     "Application.Easy_PascalTriangleTwo_119.executor": "Run",
     "Application.Easy_SimpleMergeSort.executor": "Run",
     "Application.Easy_SumOfLeftLeaves_404.executor": "Run",
@@ -171,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="69510000" />
+      <workItem from="1712637264922" duration="70296000" />
     </task>
     <servers />
   </component>
