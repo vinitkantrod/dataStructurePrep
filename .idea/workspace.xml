@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Easy_PascalTriangleTwo_119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/Medium_FindTriangluarSumOfAnArray_2221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Easy_CalculateDigitSumOfString_2243.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Easy_BestTimeToBuyAndSellStock_121.executor": "Run",
+    "Application.Easy_CalculateDigitSumOfString_2243.executor": "Run",
     "Application.Easy_IntersectionOfTwoArrays_349.executor": "Run",
     "Application.Easy_PascalTriangleTwo_119.executor": "Run",
     "Application.Easy_SimpleMergeSort.executor": "Run",
@@ -53,6 +55,7 @@
     "Application.Medium_BestTimeToBuyAndSellStockWithTransactionFee_714.executor": "Run",
     "Application.Medium_ContainerWithMostWater_11.executor": "Run",
     "Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101.executor": "Run",
+    "Application.Medium_FindTriangluarSumOfAnArray_2221.executor": "Run",
     "Application.Medium_HouseRobberThree_337.executor": "Run",
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
     "Application.Medium_HouseRobber_198.executor": "Run",
@@ -77,7 +80,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Easy_PascalTriangleTwo_119">
+  <component name="RunManager" selected="Application.Easy_MinMaxGame_2293">
+    <configuration name="Easy_CalculateDigitSumOfString_2243" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.strings.leetcode.Easy_CalculateDigitSumOfString_2243" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.strings.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Easy_MinMaxGame_2293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.array.leetcode.Easy_MinMaxGame_2293" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.array.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Easy_PascalTriangleTwo_119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Easy_PascalTriangleTwo_119" />
       <module name="data_structure_and_algorithm" />
@@ -91,38 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_SumOfLeftLeaves_404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.tree.leetcode.Easy_SumOfLeftLeaves_404" />
+    <configuration name="Medium_FindTriangluarSumOfAnArray_2221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.array.leetcode.Medium_FindTriangluarSumOfAnArray_2221" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.tree.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium_EarliestMomentWhenEveryoneBecomesFriends_1101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.disjointSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium_NumberOfConnectedComponent_323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_NumberOfConnectedComponent_323" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.disjointSet.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_MinMaxGame_2293" />
+        <item itemvalue="Application.Easy_CalculateDigitSumOfString_2243" />
+        <item itemvalue="Application.Medium_FindTriangluarSumOfAnArray_2221" />
         <item itemvalue="Application.Easy_PascalTriangleTwo_119" />
         <item itemvalue="Application.Medium_SumRootToLeafNode_129" />
-        <item itemvalue="Application.Easy_SumOfLeftLeaves_404" />
-        <item itemvalue="Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101" />
-        <item itemvalue="Application.Medium_NumberOfConnectedComponent_323" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="67713000" />
+      <workItem from="1712637264922" duration="69510000" />
     </task>
     <servers />
   </component>
