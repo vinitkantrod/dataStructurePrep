@@ -18,8 +18,8 @@ public class Medium_PseudoPalindromicPathinBinaryTree_1457 {
             this.right = right;
         }
     }
-    int count = 0;
-    public int pseudoPalindromicPaths (TreeNode root) {
+    static  int count = 0;
+    public static int pseudoPalindromicPaths (TreeNode root) {
 //        List<String> pathString = new ArrayList<>();
 //        dfs(root, pathString, "");
 //        int palindromicCount = 0;
@@ -51,7 +51,7 @@ public class Medium_PseudoPalindromicPathinBinaryTree_1457 {
         dfs(node.left, pathString, str);
         dfs(node.right, pathString, str);
     }
-    public void preorder(TreeNode node, int path) {
+    public static void preorder(TreeNode node, int path) {
         if (node != null) {
             // compute occurences of each digit
             // in the corresponding register
