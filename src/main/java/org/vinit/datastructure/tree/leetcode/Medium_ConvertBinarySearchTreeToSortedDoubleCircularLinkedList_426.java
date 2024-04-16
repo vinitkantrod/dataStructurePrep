@@ -40,6 +40,5 @@ public class Medium_ConvertBinarySearchTreeToSortedDoubleCircularLinkedList_426 
             last = root;
             helper(root.right);
         }
-
     }
 }

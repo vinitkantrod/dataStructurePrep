@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Easy_FindLonelyNode_1469.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Medium_PseudoPalindromicPathinBinaryTree_1457.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Medium_ConvertBinarySearchTreeToSortedDoubleCircularLinkedList_426.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Medium_ConvertBinarySearchTreeToSortedDoubleCircularLinkedList_426.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +67,7 @@
     "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
     "Application.Medium_PaintHouse_256.executor": "Run",
+    "Application.Medium_PseudoPalindromicPathinBinaryTree_1457.executor": "Run",
     "Application.Medium_RemoveKDigitFromNumber_402.executor": "Run",
     "Application.Medium_SumRootToLeafNode_129.executor": "Run",
     "Application.Medium_WordSearch_79.executor": "Run",
@@ -81,7 +85,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_AddOneRowToTree_623">
+  <component name="RunManager" selected="Application.Medium_PseudoPalindromicPathinBinaryTree_1457">
     <configuration name="Easy_CalculateDigitSumOfString_2243" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.strings.leetcode.Easy_CalculateDigitSumOfString_2243" />
       <module name="data_structure_and_algorithm" />
@@ -101,19 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.vinit.datastructure.array.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Easy_PascalTriangleTwo_119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.uber.Easy_PascalTriangleTwo_119" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.uber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_PseudoPalindromicPathinBinaryTree_1457" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.tree.leetcode.Medium_PseudoPalindromicPathinBinaryTree_1457" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.tree.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_PseudoPalindromicPathinBinaryTree_1457" />
         <item itemvalue="Application.Medium_AddOneRowToTree_623" />
         <item itemvalue="Application.Easy_MinMaxGame_2293" />
         <item itemvalue="Application.Easy_CalculateDigitSumOfString_2243" />
         <item itemvalue="Application.Medium_FindTriangluarSumOfAnArray_2221" />
-        <item itemvalue="Application.Easy_PascalTriangleTwo_119" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
       <workItem from="1712637264922" duration="72131000" />
-      <workItem from="1713236378296" duration="3727000" />
+      <workItem from="1713236378296" duration="6001000" />
     </task>
     <servers />
   </component>
