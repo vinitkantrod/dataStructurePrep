@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Medium_LongestPalindromicSubString_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Medium_AddOneRowToTree_623.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eqfvrP0kgHvqTeXJUvLIFctc6T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,6 +51,7 @@
     "Application.Hard_medianOfTwoSortedArray_4.executor": "Run",
     "Application.Hard_trappingRainWater_42.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Medium_AddOneRowToTree_623.executor": "Run",
     "Application.Medium_BestTimeToBuyAndSellStockTwo_122.executor": "Run",
     "Application.Medium_BestTimeToBuyAndSellStockWithTransactionFee_714.executor": "Run",
     "Application.Medium_ContainerWithMostWater_11.executor": "Run",
@@ -72,6 +73,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/roshnib.48/Projects/GGSSC/data_structure_and_algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Easy_MinMaxGame_2293">
+  <component name="RunManager" selected="Application.Medium_AddOneRowToTree_623">
     <configuration name="Easy_CalculateDigitSumOfString_2243" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.strings.leetcode.Easy_CalculateDigitSumOfString_2243" />
       <module name="data_structure_and_algorithm" />
@@ -120,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_AddOneRowToTree_623" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.tree.leetcode.Medium_AddOneRowToTree_623" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.tree.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Medium_FindTriangluarSumOfAnArray_2221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.array.leetcode.Medium_FindTriangluarSumOfAnArray_2221" />
       <module name="data_structure_and_algorithm" />
@@ -133,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_SumRootToLeafNode_129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.tree.leetcode.Medium_SumRootToLeafNode_129" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.tree.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_AddOneRowToTree_623" />
         <item itemvalue="Application.Easy_MinMaxGame_2293" />
         <item itemvalue="Application.Easy_CalculateDigitSumOfString_2243" />
         <item itemvalue="Application.Medium_FindTriangluarSumOfAnArray_2221" />
         <item itemvalue="Application.Easy_PascalTriangleTwo_119" />
-        <item itemvalue="Application.Medium_SumRootToLeafNode_129" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712637263243</updated>
-      <workItem from="1712637264922" duration="71963000" />
+      <workItem from="1712637264922" duration="72131000" />
+      <workItem from="1713236378296" duration="770000" />
     </task>
     <servers />
   </component>
