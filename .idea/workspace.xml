@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode75/twoPointers/Medium_MaxNumberOfKPairSum_1679.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode75/slidingWindow/Easy_MaximumAverageSubArray_643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode75/slidingWindow/Medium_MaximumNumberOfVowelInSubString_1456.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,7 @@
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
     "Application.Medium_HouseRobber_198.executor": "Run",
     "Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor": "Run",
+    "Application.Medium_MaxNumberOfKPairSum_1679.executor": "Run",
     "Application.Medium_MaximumProfitFromTradingStock_2291.executor": "Run",
     "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
@@ -182,7 +184,7 @@
       <updated>1712637263243</updated>
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
-      <workItem from="1713278147177" duration="11626000" />
+      <workItem from="1713278147177" duration="12608000" />
     </task>
     <servers />
   </component>
