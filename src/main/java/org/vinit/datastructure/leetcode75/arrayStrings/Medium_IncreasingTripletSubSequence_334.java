@@ -11,5 +11,4 @@ public class Medium_IncreasingTripletSubSequence_334 {
             }
         return false;
     }
-    }
 }
