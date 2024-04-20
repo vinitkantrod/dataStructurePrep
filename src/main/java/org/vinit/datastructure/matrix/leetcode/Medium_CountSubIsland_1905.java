@@ -1,13 +1,14 @@
 package org.vinit.datastructure.matrix.leetcode;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Medium_CountSubIsland_1905 {
 
-    int[] xDir = {0,0,-1,1};
-    int[] yDir = {-1,1,0,0};
+    static int[] xDir = {0,0,-1,1};
+    static int[] yDir = {-1,1,0,0};
 
-    class Pair
+    static class Pair
     {
         int x = 0;
         int y = 0;
@@ -48,7 +49,7 @@ public class Medium_CountSubIsland_1905 {
         }
         return count;
     }
-    public void DFS(int[][] grid2,boolean[][] visited,int i,int j,ArrayList<Pair> arr)
+    public static void DFS(int[][] grid2, boolean[][] visited, int i, int j, ArrayList<Pair> arr)
     {
         if(i<0 || i>=grid2.length || j<0 || j>=grid2[0].length || visited[i][j] == true ||grid2[i][j]!=1)
             return;
