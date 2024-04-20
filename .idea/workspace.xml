@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/intervals/Medium_MinNumberOfBalloonsToBurst_452.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/matrix/leetcode/Medium_FindAllGroupsOfFarmLand_1992.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/intervals/Medium_MinNumberOfBalloonsToBurst_452.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/intervals/Medium_MinNumberOfBalloonsToBurst_452.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Application.Medium_Dota2Senate_649.executor": "Run",
     "Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101.executor": "Run",
     "Application.Medium_EqualRowsAndColPair_2352.executor": "Run",
+    "Application.Medium_FindAllGroupsOfFarmLand_1992.executor": "Run",
     "Application.Medium_FindTriangluarSumOfAnArray_2221.executor": "Run",
     "Application.Medium_HouseRobberThree_337.executor": "Run",
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
@@ -102,20 +104,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_NumberOfIsland_200">
-    <configuration name="Easy_IslandPerimeter_463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.matrix.leetcode.Easy_IslandPerimeter_463" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.matrix.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Medium_FindAllGroupsOfFarmLand_1992">
     <configuration name="Easy_MinCostClimbingStair_746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode75.dp1D.Easy_MinCostClimbingStair_746" />
       <module name="data_structure_and_algorithm" />
@@ -135,6 +124,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.vinit.datastructure.leetcode75.dp1D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medium_FindAllGroupsOfFarmLand_1992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.matrix.leetcode.Medium_FindAllGroupsOfFarmLand_1992" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.matrix.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_FindAllGroupsOfFarmLand_1992" />
         <item itemvalue="Application.Medium_NumberOfIsland_200" />
         <item itemvalue="Application.Easy_MinCostClimbingStair_746" />
         <item itemvalue="Application.Easy_NthTribonacci_1137" />
         <item itemvalue="Application.Medium_StockSpanner_901" />
-        <item itemvalue="Application.Easy_IslandPerimeter_463" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +198,7 @@
       <updated>1712637263243</updated>
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
-      <workItem from="1713278147177" duration="47034000" />
+      <workItem from="1713278147177" duration="48561000" />
     </task>
     <servers />
   </component>
