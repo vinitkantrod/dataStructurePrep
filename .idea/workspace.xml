@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/disjointSet/Medium_LexicographicallySmallestEquivalentString_1061.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/traversal/Medium_NumberOfProvinces_547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Medium_LongestIdealSubsequenceString_2370.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,7 @@
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
     "Application.Medium_HouseRobber_198.executor": "Run",
     "Application.Medium_LexicographicallySmallestEquivalentString_1061.executor": "Run",
+    "Application.Medium_LongestIdealSubsequenceString_2370.executor": "Run",
     "Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor": "Run",
     "Application.Medium_MaxConsecutiveOnesByFlipping_1004.executor": "Run",
     "Application.Medium_MaxNumberOfKPairSum_1679.executor": "Run",
@@ -108,7 +109,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_LexicographicallySmallestEquivalentString_1061">
+  <component name="RunManager" selected="Application.Medium_LongestIdealSubsequenceString_2370">
     <configuration name="Medium_AccountMerge_721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_AccountMerge_721" />
       <module name="data_structure_and_algorithm" />
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_CountSubIsland_1905" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.matrix.leetcode.Medium_CountSubIsland_1905" />
+    <configuration name="Medium_LexicographicallySmallestEquivalentString_1061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_LexicographicallySmallestEquivalentString_1061" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.matrix.leetcode.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.disjointSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_LexicographicallySmallestEquivalentString_1061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.disjointSet.Medium_LexicographicallySmallestEquivalentString_1061" />
+    <configuration name="Medium_LongestIdealSubsequenceString_2370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.strings.leetcode.Medium_LongestIdealSubsequenceString_2370" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.disjointSet.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.strings.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_LongestIdealSubsequenceString_2370" />
         <item itemvalue="Application.Medium_LexicographicallySmallestEquivalentString_1061" />
         <item itemvalue="Application.Medium_AccountMerge_721" />
         <item itemvalue="Application.Medium_MinimumHeightTree_310" />
         <item itemvalue="Application.TechRound" />
-        <item itemvalue="Application.Medium_CountSubIsland_1905" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,7 @@
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
-      <workItem from="1713881777311" duration="11455000" />
+      <workItem from="1713881777311" duration="13808000" />
     </task>
     <servers />
   </component>
