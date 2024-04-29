@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/array/leetcode/Medium_MinimumNumberOfOperationToMakeArrayXOREqualK_2997.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Hard_FreedomTrial_514.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Hard_FreedomTrial_514.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Hard_SumOfDistancesInTree_834.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/tree/leetcode/Hard_SumOfDistancesInTree_834.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "Application.Hard_LargestRectangleInHistogram_84.executor": "Run",
     "Application.Hard_MinimumFailingPathSumTwo_1289.executor": "Run",
     "Application.Hard_NumberOfIslandTwo_305.executor": "Run",
-    "Application.Hard_SumOfDistancesInTree_834.executor": "Run",
+    "Application.Hard_SumOfDistancesInTree_834.executor": "Debug",
     "Application.Hard_medianOfTwoSortedArray_4.executor": "Run",
     "Application.Hard_trappingRainWater_42.executor": "Run",
     "Application.Main.executor": "Run",
@@ -207,7 +206,7 @@
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
-      <workItem from="1713881777311" duration="21592000" />
+      <workItem from="1713881777311" duration="22040000" />
     </task>
     <servers />
   </component>
