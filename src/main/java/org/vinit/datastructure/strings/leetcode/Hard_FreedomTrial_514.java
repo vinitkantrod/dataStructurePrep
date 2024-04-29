@@ -1,5 +1,7 @@
 package org.vinit.datastructure.strings.leetcode;
 
+import java.util.Arrays;
+
 public class Hard_FreedomTrial_514 {
 
     public int findRotateSteps(String ring, String key) {

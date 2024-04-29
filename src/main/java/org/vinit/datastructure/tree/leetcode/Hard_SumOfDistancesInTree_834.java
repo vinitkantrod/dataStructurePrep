@@ -4,11 +4,11 @@ import java.util.*;
 
 public class Hard_SumOfDistancesInTree_834 {
 
-    private Map<Integer, List<Integer>> graph;
-    private int[] count;
-    private int[] res;
+    static private Map<Integer, List<Integer>> graph;
+    static private int[] count;
+    static private int[] res;
 
-    private void dfs(int node, int parent) {
+    private static void dfs(int node, int parent) {
         for (int child : graph.get(node)) {
             if (child != parent) {
                 dfs(child, node);
@@ -18,7 +18,7 @@ public class Hard_SumOfDistancesInTree_834 {
         }
     }
 
-    private void dfs2(int node, int parent) {
+    private static void dfs2(int node, int parent) {
         for (int child : graph.get(node)) {
             if (child != parent) {
                 res[child] = res[node] - count[child] + (count.length - count[child]);
@@ -27,7 +27,7 @@ public class Hard_SumOfDistancesInTree_834 {
         }
     }
 
-    public int[] sumOfDistancesInTree(int n, int[][] edges) {
+    public static int[] sumOfDistancesInTree(int n, int[][] edges) {
         graph = new HashMap<>();
         count = new int[n];
         res = new int[n];
@@ -44,9 +44,20 @@ public class Hard_SumOfDistancesInTree_834 {
             graph.get(v).add(u);
         }
 
+        System.out.println(graph);
         dfs(0, -1);
+        System.out.println("Count: " + Arrays.toString(count));
+        System.out.println("Res: " + Arrays.toString(res));
         dfs2(0, -1);
 
         return res;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Arrays.toString(
+                sumOfDistancesInTree(6, new int[][]{
+                        {0,1},{0,2},{2,3},{2,4},{2,5}
+                })
+        ));
     }
 }
