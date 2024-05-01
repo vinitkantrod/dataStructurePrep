@@ -1,6 +1,4 @@
-package org.vinit.datastructure.uber;
-
-import java.util.Arrays;
+package org.vinit.datastructure.uberLeetcode;
 
 public class Hard_trappingRainWater_42 {
 

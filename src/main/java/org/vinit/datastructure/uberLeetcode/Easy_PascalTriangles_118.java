@@ -1,7 +1,6 @@
-package org.vinit.datastructure.uber;
+package org.vinit.datastructure.uberLeetcode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Easy_PascalTriangles_118 {

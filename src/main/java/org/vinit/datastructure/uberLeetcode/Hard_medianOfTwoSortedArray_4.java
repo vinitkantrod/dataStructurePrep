@@ -1,4 +1,4 @@
-package org.vinit.datastructure.uber;
+package org.vinit.datastructure.uberLeetcode;
 
 public class Hard_medianOfTwoSortedArray_4 {
 
