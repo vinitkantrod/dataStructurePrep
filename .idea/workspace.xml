@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/strings/leetcode/Easy_ReversePrefixOfWord_2000.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Easy_PascalTriangleTwo_119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Easy_PascalTriangleTwo_119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Easy_PascalTriangles_118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Easy_PascalTriangles_118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Hard_FindTheClosestPalindrome_564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Hard_FindTheClosestPalindrome_564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Hard_NumberOfIslandTwo_305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Hard_NumberOfIslandTwo_305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Hard_medianOfTwoSortedArray_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Hard_medianOfTwoSortedArray_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uber/Hard_trappingRainWater_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/uberLeetcode/Hard_trappingRainWater_42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +206,7 @@
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
-      <workItem from="1713881777311" duration="30950000" />
+      <workItem from="1713881777311" duration="31734000" />
     </task>
     <servers />
   </component>
