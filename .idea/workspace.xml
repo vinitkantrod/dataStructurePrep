@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/ll/Medium_RemoveNodesFromLL_2487.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/twoPointers/runningFromBothEnd/twoSumPatterns/Medium_BoatToSavePeople_881.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/twoPointers/runningFromBothEnd/twoSumPatterns/Medium_BoatToSavePeople_881.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/ll/Medium_DeleteNodeFromLL_237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/ll/Medium_DeleteNodeFromLL_237.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +210,7 @@
       <workItem from="1712637264922" duration="72131000" />
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
-      <workItem from="1713881777311" duration="39873000" />
+      <workItem from="1713881777311" duration="41403000" />
     </task>
     <servers />
   </component>
