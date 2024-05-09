@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/schemas/MessageSchema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/MainKafka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/MainKafka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJODeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJODeserializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJOSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJOSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +222,7 @@
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
       <workItem from="1713881777311" duration="49698000" />
-      <workItem from="1715154369341" duration="23599000" />
+      <workItem from="1715154369341" duration="24375000" />
     </task>
     <servers />
   </component>
