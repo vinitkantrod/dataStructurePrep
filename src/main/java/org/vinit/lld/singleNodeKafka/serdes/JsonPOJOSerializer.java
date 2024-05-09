@@ -31,4 +31,7 @@ public class JsonPOJOSerializer<T> implements Serializer<T> {
     public void close() {
         Serializer.super.close();
     }
+    public void printData() {
+        System.out.println(objectMapper);
+    }
 }

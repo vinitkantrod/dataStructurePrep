@@ -10,4 +10,5 @@ public interface Serializer<T> extends Cloneable {
         return serialize(topic, data);
     }
     default void close() {}
+    public void printData();
 }
