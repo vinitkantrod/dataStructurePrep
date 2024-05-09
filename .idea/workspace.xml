@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/design/Easy_ImplementQueueUsingStack_232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/MainKafka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/Deserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJODeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/JsonPOJOSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/singleNodeKafka/serdes/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,6 +72,7 @@
     "Application.Hard_medianOfTwoSortedArray_4.executor": "Run",
     "Application.Hard_trappingRainWater_42.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainKafka.executor": "Run",
     "Application.Medium_AccountMerge_721.executor": "Run",
     "Application.Medium_AddOneRowToTree_623.executor": "Run",
     "Application.Medium_AllPathFromSourceToTarget_797.executor": "Run",
@@ -123,7 +131,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Easy_ImplementQueueUsingStack_232">
+  <component name="RunManager" selected="Application.MainKafka">
     <configuration name="Easy_DesignOrderedStream_1656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.design.Easy_DesignOrderedStream_1656" />
       <module name="data_structure_and_algorithm" />
@@ -163,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_MaximizeHappinessOfSelectedChildren_3075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.array.leetcode.Medium_MaximizeHappinessOfSelectedChildren_3075" />
+    <configuration name="MainKafka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.lld.singleNodeKafka.MainKafka" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.array.leetcode.*" />
+          <option name="PATTERN" value="org.vinit.lld.singleNodeKafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainKafka" />
         <item itemvalue="Application.Easy_ImplementQueueUsingStack_232" />
         <item itemvalue="Application.Easy_MovingAverageFromDataStream_346" />
         <item itemvalue="Application.Easy_DesignOrderedStream_1656" />
         <item itemvalue="Application.Medium_MaximumCandiesAllocatedToKChildren_2226" />
-        <item itemvalue="Application.Medium_MaximizeHappinessOfSelectedChildren_3075" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +226,7 @@
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
       <workItem from="1713881777311" duration="49698000" />
-      <workItem from="1715154369341" duration="15464000" />
+      <workItem from="1715154369341" duration="21564000" />
     </task>
     <servers />
   </component>
