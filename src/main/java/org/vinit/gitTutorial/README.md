@@ -27,13 +27,44 @@ Set Users Details:
     git config --global user.name "vinit kantrod"
     git config --global user.email "kantrod.vinit@gmail.com"
 
-To check the settings:
+_To check the settings:_
 
     git config --list
 
-To clone an existing repository
+_To clone an existing repository_
     
     git clone <repo>
+
+_To initialize a repository_
+
+    git init
+
+_Checking status of the file_
+
+    git status
+    git status -s   #shorter view of status
+
+
+_To track new files_
+
+    git add <fileName>
+
+_To track all the files_
+    
+    git add .
+
+_To ignore files from being tracked_
+
+    cat .gitignore
+
+_To see what is changed by not yet staged_
+
+    git diff
+
+To see what you have staged that will go into next commit
+
+    git diff --staged
+    git diff --cached   #staged and cached are synonyms
 
 
 
