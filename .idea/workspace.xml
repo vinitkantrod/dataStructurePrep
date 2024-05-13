@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/matrix/leetcode/Easy_LargestLocalValuesInMatrix_2373.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/matrix/leetcode/Medium_ScoreAfrerFlippingMatrix_861.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +222,7 @@
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
       <workItem from="1713881777311" duration="49698000" />
-      <workItem from="1715154369341" duration="34196000" />
+      <workItem from="1715154369341" duration="35849000" />
     </task>
     <servers />
   </component>
