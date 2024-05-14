@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/matrix/leetcode/Medium_ScoreAfrerFlippingMatrix_861.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/graph/leetcode/traversal/Medium_TImeNeededToFindLongestEmployee_1376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/matrix/leetcode/Medium_PathWithMaximumGold_1219.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MinimumCostUsingTrainLine_2361.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/dp/leetcode/Hard_MinimumCostUsingTrainLine_2361.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +113,7 @@
     "Application.Medium_StockSpanner_901.executor": "Run",
     "Application.Medium_StringCompression_443.executor": "Run",
     "Application.Medium_SumRootToLeafNode_129.executor": "Run",
+    "Application.Medium_TImeNeededToFindLongestEmployee_1376.executor": "Run",
     "Application.Medium_WordSearch_79.executor": "Run",
     "Application.TechRound.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -127,20 +130,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hard_UniquePathThree_980">
-    <configuration name="Easy_DesignOrderedStream_1656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.design.Easy_DesignOrderedStream_1656" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.design.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Medium_TImeNeededToFindLongestEmployee_1376">
     <configuration name="Easy_ImplementQueueUsingStack_232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.design.Easy_ImplementQueueUsingStack_232" />
       <module name="data_structure_and_algorithm" />
@@ -193,13 +183,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_TImeNeededToFindLongestEmployee_1376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.traversal.Medium_TImeNeededToFindLongestEmployee_1376" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.traversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_TImeNeededToFindLongestEmployee_1376" />
         <item itemvalue="Application.Hard_UniquePathThree_980" />
         <item itemvalue="Application.MainKafka" />
         <item itemvalue="Application.Easy_ImplementQueueUsingStack_232" />
         <item itemvalue="Application.Easy_MovingAverageFromDataStream_346" />
-        <item itemvalue="Application.Easy_DesignOrderedStream_1656" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +225,7 @@
       <workItem from="1713236378296" duration="6267000" />
       <workItem from="1713278147177" duration="61531000" />
       <workItem from="1713881777311" duration="49698000" />
-      <workItem from="1715154369341" duration="35849000" />
+      <workItem from="1715154369341" duration="41689000" />
     </task>
     <servers />
   </component>

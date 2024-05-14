@@ -3,6 +3,7 @@ package org.vinit.datastructure.dp.leetcode;
 public class Hard_MinimumCostUsingTrainLine_2361 {
 
     public long[] minimumCosts(int[] regular, int[] express, int expressCost) {
+        // Minimum Cost DP problem
         long[][] memo = new long[regular.length + 1][2];
         int N = regular.length;
         long[] result = new long[N];
