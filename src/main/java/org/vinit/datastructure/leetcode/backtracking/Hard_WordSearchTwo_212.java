@@ -1,4 +1,4 @@
-package org.vinit.datastructure.backtracking;
+package org.vinit.datastructure.leetcode.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;

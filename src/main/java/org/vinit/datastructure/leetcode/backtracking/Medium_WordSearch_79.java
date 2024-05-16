@@ -1,4 +1,4 @@
-package org.vinit.datastructure.backtracking;
+package org.vinit.datastructure.leetcode.backtracking;
 
 public class Medium_WordSearch_79 {
 
