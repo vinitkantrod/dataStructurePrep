@@ -1,4 +1,4 @@
-package org.vinit.datastructure;
+package org.vinit.interviews;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
