@@ -1,4 +1,4 @@
-package org.vinit.datastructure.array.leetcode;
+package org.vinit.datastructure.leetcode;
 
 public class Medium_GasStation_134 {
 

@@ -1,4 +1,4 @@
-package org.vinit.datastructure.array.leetcode.twoPointer;
+package org.vinit.datastructure.leetcode.twoPointer;
 
 import java.util.HashMap;
 import java.util.Map;

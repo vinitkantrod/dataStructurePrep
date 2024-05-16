@@ -1,4 +1,4 @@
-package org.vinit.datastructure.array.leetcode;
+package org.vinit.datastructure.leetcode;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

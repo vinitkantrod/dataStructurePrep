@@ -1,4 +1,4 @@
-package org.vinit.datastructure.array.leetcode;
+package org.vinit.datastructure.leetcode;
 
 public class Medium_MinimumNumberOfOperationToMakeArrayXOREqualK_2997 {
     public int minOperations(int[] nums, int k) {
