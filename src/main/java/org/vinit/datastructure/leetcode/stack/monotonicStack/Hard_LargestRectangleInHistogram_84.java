@@ -1,4 +1,4 @@
-package org.vinit.datastructure.stack.leetcode.monotonicStack;
+package org.vinit.datastructure.leetcode.stack.monotonicStack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
