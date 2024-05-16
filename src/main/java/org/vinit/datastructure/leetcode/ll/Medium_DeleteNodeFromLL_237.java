@@ -1,4 +1,4 @@
-package org.vinit.datastructure.ll;
+package org.vinit.datastructure.leetcode.ll;
 
 public class Medium_DeleteNodeFromLL_237 {
     public class ListNode {
