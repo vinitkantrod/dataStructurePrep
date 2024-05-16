@@ -1,4 +1,4 @@
-package org.vinit.datastructure.twoPointers.runningFromBothEnd.twoSumPatterns;
+package org.vinit.datastructure.leetcode.array.twoSumPatterns;
 
 public class Easy_TwoSumTwo_167 {
 

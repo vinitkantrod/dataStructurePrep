@@ -1,4 +1,4 @@
-package org.vinit.datastructure.tree.leetcode;
+package org.vinit.datastructure.leetcode.tree;
 
 public class Easy_EvaluateBooleanBinaryTree_2331 {
 

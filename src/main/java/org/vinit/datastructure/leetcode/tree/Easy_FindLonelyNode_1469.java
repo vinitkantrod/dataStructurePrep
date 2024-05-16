@@ -1,4 +1,4 @@
-package org.vinit.datastructure.tree.leetcode;
+package org.vinit.datastructure.leetcode.tree;
 
 import java.util.ArrayList;
 import java.util.List;

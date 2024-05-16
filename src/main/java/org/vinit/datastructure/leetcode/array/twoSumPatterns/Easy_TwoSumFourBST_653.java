@@ -1,4 +1,4 @@
-package org.vinit.datastructure.twoPointers.runningFromBothEnd.twoSumPatterns;
+package org.vinit.datastructure.leetcode.array.twoSumPatterns;
 
 import java.util.ArrayList;
 import java.util.List;

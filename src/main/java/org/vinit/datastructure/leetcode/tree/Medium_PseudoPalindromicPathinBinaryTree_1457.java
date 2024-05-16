@@ -1,6 +1,4 @@
-package org.vinit.datastructure.tree.leetcode;
-
-import com.sun.source.tree.Tree;
+package org.vinit.datastructure.leetcode.tree;
 
 import java.util.*;
 
