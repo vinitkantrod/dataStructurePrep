@@ -1,4 +1,4 @@
-package org.vinit.datastructure.matrix.leetcode;
+package org.vinit.datastructure.leetcode.matrix;
 
 public class Easy_IslandPerimeter_463 {
 

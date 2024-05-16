@@ -1,7 +1,4 @@
-package org.vinit.datastructure.matrix.leetcode;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package org.vinit.datastructure.leetcode.matrix;
 
 public class Hard_MinimumFailingPathSumTwo_1289 {
 

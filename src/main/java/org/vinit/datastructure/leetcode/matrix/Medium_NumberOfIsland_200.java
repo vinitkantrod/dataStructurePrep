@@ -1,6 +1,4 @@
-package org.vinit.datastructure.matrix.leetcode;
-
-import java.util.Arrays;
+package org.vinit.datastructure.leetcode.matrix;
 
 public class Medium_NumberOfIsland_200 {
     public static int numIslands(char[][] grid) {

@@ -1,4 +1,4 @@
-package org.vinit.datastructure.matrix.leetcode;
+package org.vinit.datastructure.leetcode.matrix;
 
 import java.util.ArrayList;
 import java.util.Arrays;
