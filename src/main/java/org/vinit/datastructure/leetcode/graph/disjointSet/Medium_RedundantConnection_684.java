@@ -1,4 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.disjointSet;
+package org.vinit.datastructure.leetcode.graph.disjointSet;
 
 public class Medium_RedundantConnection_684 {
 

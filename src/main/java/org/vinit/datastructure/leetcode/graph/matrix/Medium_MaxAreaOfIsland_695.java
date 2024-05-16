@@ -1,7 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.matrix;
-
-import java.util.HashSet;
-import java.util.Set;
+package org.vinit.datastructure.leetcode.graph.matrix;
 
 public class Medium_MaxAreaOfIsland_695 {
     public int maxAreaOfIsland(int[][] grid) {

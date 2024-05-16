@@ -1,6 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.disjointSet;
-
-import java.util.Map;
+package org.vinit.datastructure.leetcode.graph.disjointSet;
 
 public class Medium_SatisfiabilityOfEqualityEquation_990 {
 

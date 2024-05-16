@@ -1,8 +1,6 @@
-package org.vinit.datastructure.leetcode.leetcode.matrix;
+package org.vinit.datastructure.leetcode.graph.matrix;
 
-import javax.lang.model.type.ArrayType;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Medium_PacificAtlanticWaterFlow_417 {

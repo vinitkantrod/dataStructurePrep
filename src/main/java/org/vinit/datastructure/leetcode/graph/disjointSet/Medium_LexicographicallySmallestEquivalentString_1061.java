@@ -1,8 +1,6 @@
-package org.vinit.datastructure.leetcode.leetcode.disjointSet;
+package org.vinit.datastructure.leetcode.graph.disjointSet;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Medium_LexicographicallySmallestEquivalentString_1061 {
 

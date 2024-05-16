@@ -1,4 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.traversal;
+package org.vinit.datastructure.leetcode.graph.traversal;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,6 +1,5 @@
-package org.vinit.datastructure.leetcode.leetcode.disjointSet;
+package org.vinit.datastructure.leetcode.graph.disjointSet;
 
-import javax.swing.*;
 import java.util.*;
 
 public class Medium_SmallestStringWithSwap_1202 {

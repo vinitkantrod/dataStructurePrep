@@ -1,4 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.matrix;
+package org.vinit.datastructure.leetcode.graph.matrix;
 
 public class Medium_NumberOfClosedIsland_1254 {
 

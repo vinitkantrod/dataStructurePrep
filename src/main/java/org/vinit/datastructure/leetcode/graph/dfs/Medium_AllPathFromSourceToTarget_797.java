@@ -1,4 +1,4 @@
-package org.vinit.datastructure.leetcode.leetcode.dfs;
+package org.vinit.datastructure.leetcode.graph.dfs;
 
 import java.util.*;
 
