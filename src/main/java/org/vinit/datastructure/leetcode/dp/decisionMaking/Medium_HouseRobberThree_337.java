@@ -1,6 +1,5 @@
-package org.vinit.datastructure.dp.leetcode.decisionMaking;
+package org.vinit.datastructure.leetcode.dp.decisionMaking;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Medium_HouseRobberThree_337 {

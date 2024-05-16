@@ -1,4 +1,4 @@
-package org.vinit.datastructure.dp.leetcode.decisionMaking;
+package org.vinit.datastructure.leetcode.dp.decisionMaking;
 
 public class Hard_BuyAndSellStockFour_188 {
 

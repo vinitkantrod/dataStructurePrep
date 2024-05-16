@@ -1,7 +1,4 @@
-package org.vinit.datastructure.dp.leetcode.distinctWays;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package org.vinit.datastructure.leetcode.dp.distinctWays;
 
 public class Medium_PartitionEqualSubsetSum_416 {
 

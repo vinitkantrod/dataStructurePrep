@@ -1,7 +1,4 @@
-package org.vinit.datastructure.dp.leetcode.decisionMaking;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package org.vinit.datastructure.leetcode.dp.decisionMaking;
 
 public class Medium_MaximumProfitFromTradingStock_2291 {
 

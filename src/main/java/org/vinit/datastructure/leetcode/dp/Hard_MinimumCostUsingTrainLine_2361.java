@@ -1,4 +1,4 @@
-package org.vinit.datastructure.dp.leetcode;
+package org.vinit.datastructure.leetcode.dp;
 
 public class Hard_MinimumCostUsingTrainLine_2361 {
 

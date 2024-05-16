@@ -1,4 +1,4 @@
-package org.vinit.datastructure.dp.leetcode.distinctWays;
+package org.vinit.datastructure.leetcode.dp.distinctWays;
 
 import java.util.Arrays;
 
