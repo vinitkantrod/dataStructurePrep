@@ -1,4 +1,4 @@
-package org.vinit.datastructure.strings.leetcode;
+package org.vinit.datastructure.leetcode.strings;
 
 public class Easy_RemoveDigitFromNumberToMaximiseResult_2259 {
 

@@ -1,4 +1,4 @@
-package org.vinit.datastructure.strings.leetcode;
+package org.vinit.datastructure.leetcode.strings;
 
 public class Medium_ReverseInteger_7 {
 

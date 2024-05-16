@@ -1,4 +1,4 @@
-package org.vinit.datastructure.strings.leetcode;
+package org.vinit.datastructure.leetcode.strings;
 
 import java.util.HashMap;
 import java.util.Map;

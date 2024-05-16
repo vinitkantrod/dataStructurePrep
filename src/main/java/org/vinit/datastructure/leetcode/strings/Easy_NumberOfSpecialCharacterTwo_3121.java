@@ -1,9 +1,7 @@
-package org.vinit.datastructure.strings.leetcode;
+package org.vinit.datastructure.leetcode.strings;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class Easy_NumberOfSpecialCharacterTwo_3121 {
 
