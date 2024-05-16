@@ -1,4 +1,4 @@
-package org.vinit.datastructure.sorting;
+package org.vinit.datastructure.leetcode.sorting;
 
 import java.util.Arrays;
 import java.util.Random;

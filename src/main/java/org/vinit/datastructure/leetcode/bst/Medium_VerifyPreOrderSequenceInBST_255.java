@@ -1,4 +1,4 @@
-package org.vinit.datastructure.bst.leetcode;
+package org.vinit.datastructure.leetcode.bst;
 
 import java.util.Stack;
 
