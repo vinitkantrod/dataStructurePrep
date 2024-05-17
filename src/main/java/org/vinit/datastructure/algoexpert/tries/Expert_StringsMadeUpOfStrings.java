@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Expert_StringsMadeUpOfStrings {
 
-    public String[] stringsMadeUpOfStrings(
+    public static String[] stringsMadeUpOfStrings(
             String[] strings, String[] substrings
     ) {
         Trie t = new Trie();
@@ -15,7 +15,7 @@ public class Expert_StringsMadeUpOfStrings {
 
     }
 
-    public boolean checkIfWordCanBeMade(String word, Trie root) {
+    public static boolean checkIfWordCanBeMade(String word, Trie root) {
         if (word.length() == 0) return true;
         Trie currNode = root;
         int i;
@@ -31,7 +31,7 @@ public class Expert_StringsMadeUpOfStrings {
         return i == word.length() && currNode.isEndOfWord;
     }
 
-    class Trie {
+    static class Trie {
         HashMap<Character, Trie> children = new HashMap<>();
         boolean isEndOfWord = false;
 
