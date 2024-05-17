@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/algoexpert/tries/MultiSearchString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/algoexpert/tries/Hard_LongestMostFrequentPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.Easy_TimeNeededToBuyTicket_2073.executor": "Run",
     "Application.Hard_BuyAndSellStockThree_123.executor": "Run",
     "Application.Hard_LargestRectangleInHistogram_84.executor": "Run",
+    "Application.Hard_LongestMostFrequentPrefix.executor": "Run",
     "Application.Hard_MinimumFailingPathSumTwo_1289.executor": "Run",
     "Application.Hard_NumberOfIslandTwo_305.executor": "Run",
     "Application.Hard_SumOfDistancesInTree_834.executor": "Debug",
@@ -131,13 +132,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MultiSearchString">
-    <configuration name="Hard_UniquePathThree_980" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.backtracking.Hard_UniquePathThree_980" />
+  <component name="RunManager" selected="Application.Hard_LongestMostFrequentPrefix">
+    <configuration name="Hard_LongestMostFrequentPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.algoexpert.tries.Hard_LongestMostFrequentPrefix" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.backtracking.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.algoexpert.tries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hard_LongestMostFrequentPrefix" />
         <item itemvalue="Application.MultiSearchString" />
         <item itemvalue="Application.Medium_PacificAtlanticWaterFlow_417" />
         <item itemvalue="Application.Medium_ShortestPathWithAlternativeColor_1129" />
         <item itemvalue="Application.Medium_TImeNeededToFindLongestEmployee_1376" />
-        <item itemvalue="Application.Hard_UniquePathThree_980" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +230,7 @@
       <workItem from="1715154369341" duration="42536000" />
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
-      <workItem from="1715851515205" duration="9416000" />
+      <workItem from="1715851515205" duration="12036000" />
     </task>
     <servers />
   </component>
