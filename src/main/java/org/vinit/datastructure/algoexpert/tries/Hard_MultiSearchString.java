@@ -2,7 +2,7 @@ package org.vinit.datastructure.algoexpert.tries;
 
 import java.util.*;
 
-public class MultiSearchString {
+public class Hard_MultiSearchString {
 
     public static List<Boolean> multiStringSearch(
             String bigString, String[] smallStrings

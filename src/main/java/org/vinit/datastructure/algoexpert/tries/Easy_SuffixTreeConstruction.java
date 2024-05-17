@@ -3,7 +3,7 @@ package org.vinit.datastructure.algoexpert.tries;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SuffixTreeConstruction {
+public class Easy_SuffixTreeConstruction {
 
     // Do not edit the class below except for the
     // populateSuffixTrieFrom and contains methods.
