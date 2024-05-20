@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Easy_SumOfAllSubsetXORTotals_1863.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,102 +39,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ClimbingStairs70.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_BestTimeToBuyAndSellStock_121.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_CalculateDigitSumOfString_2243.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_DesignOrderedStream_1656.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_ImplementQueueUsingStack_232.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_IntersectionOfTwoArrays_349.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_IslandPerimeter_463.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_MinCostClimbingStair_746.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_MinMaxGame_2293.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_MovingAverageFromDataStream_346.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_NthTribonacci_1137.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_PascalTriangleTwo_119.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_PivotIndex_726.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_RelativeRank_506.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_ReverseVowelsOfString_345.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_SimpleMergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_SumOfLeftLeaves_404.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Easy_TimeNeededToBuyTicket_2073.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Expert_StringsMadeUpOfStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_BuyAndSellStockThree_123.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_LargestRectangleInHistogram_84.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_LongestMostFrequentPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_MinimumFailingPathSumTwo_1289.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_NumberOfIslandTwo_305.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_ShortestUniquePrefixes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_SumOfDistancesInTree_834.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Hard_UniquePathThree_980.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_medianOfTwoSortedArray_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hard_trappingRainWater_42.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainKafka.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_AccountMerge_721.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_AddOneRowToTree_623.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_AllPathFromSourceToTarget_797.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_BestTimeToBuyAndSellStockTwo_122.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_BestTimeToBuyAndSellStockWithTransactionFee_714.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_BinaryTreeRightSideView_199.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_CompareVersionNumbers_165.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_ContainerWithMostWater_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_CountSubIsland_1905.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_DecodeString_394.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_Dota2Senate_649.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_EqualRowsAndColPair_2352.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_FindAllGroupsOfFarmLand_1992.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_FindTriangluarSumOfAnArray_2221.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_HouseRobberThree_337.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_HouseRobberTwo_213.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_HouseRobber_198.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_LexicographicallySmallestEquivalentString_1061.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_LongestIdealSubsequenceString_2370.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaxConsecutiveOnesByFlipping_1004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaxNumberOfKPairSum_1679.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaximizeHappinessOfSelectedChildren_3075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaximumCandiesAllocatedToKChildren_2226.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaximumProfitFromTradingStock_2291.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MaximumTwinSumOfLinkedList_2130.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_MinimumHeightTree_310.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_NumberOfConnectedComponent_323.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_NumberOfIsland_200.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_NumberOfProvinces_547.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_NumberOfWonderfulSubString_1915.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_OddEvenList_328.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_PacificAtlanticWaterFlow_417.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_PaintHouse_256.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_ProductOfArrayExceptItself_238.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_PseudoPalindromicPathinBinaryTree_1457.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_RemoveKDigitFromNumber_402.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_ReverseWordsOfString_151.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_ShortestPathWithAlternativeColor_1129.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_SmallestStringStartingFromLeaf_988.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_StockSpanner_901.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_StringCompression_443.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_SumRootToLeafNode_129.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_TImeNeededToFindLongestEmployee_1376.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Medium_WordSearch_79.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiSearchString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TechRound.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/roshnib.48/Projects/GGSSC/data_structure_and_algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClimbingStairs70.executor": "Run",
+    "Application.Easy_BestTimeToBuyAndSellStock_121.executor": "Run",
+    "Application.Easy_CalculateDigitSumOfString_2243.executor": "Run",
+    "Application.Easy_DesignOrderedStream_1656.executor": "Run",
+    "Application.Easy_ImplementQueueUsingStack_232.executor": "Run",
+    "Application.Easy_IntersectionOfTwoArrays_349.executor": "Run",
+    "Application.Easy_IslandPerimeter_463.executor": "Run",
+    "Application.Easy_MinCostClimbingStair_746.executor": "Run",
+    "Application.Easy_MinMaxGame_2293.executor": "Run",
+    "Application.Easy_MovingAverageFromDataStream_346.executor": "Run",
+    "Application.Easy_NthTribonacci_1137.executor": "Run",
+    "Application.Easy_PascalTriangleTwo_119.executor": "Run",
+    "Application.Easy_PivotIndex_726.executor": "Run",
+    "Application.Easy_RelativeRank_506.executor": "Run",
+    "Application.Easy_ReverseVowelsOfString_345.executor": "Run",
+    "Application.Easy_SimpleMergeSort.executor": "Run",
+    "Application.Easy_SumOfAllSubsetXORTotals_1863.executor": "Run",
+    "Application.Easy_SumOfLeftLeaves_404.executor": "Run",
+    "Application.Easy_TimeNeededToBuyTicket_2073.executor": "Run",
+    "Application.Expert_StringsMadeUpOfStrings.executor": "Run",
+    "Application.Hard_BuyAndSellStockThree_123.executor": "Run",
+    "Application.Hard_LargestRectangleInHistogram_84.executor": "Run",
+    "Application.Hard_LongestMostFrequentPrefix.executor": "Run",
+    "Application.Hard_MinimumFailingPathSumTwo_1289.executor": "Run",
+    "Application.Hard_NumberOfIslandTwo_305.executor": "Run",
+    "Application.Hard_ShortestUniquePrefixes.executor": "Run",
+    "Application.Hard_SumOfDistancesInTree_834.executor": "Debug",
+    "Application.Hard_UniquePathThree_980.executor": "Run",
+    "Application.Hard_medianOfTwoSortedArray_4.executor": "Run",
+    "Application.Hard_trappingRainWater_42.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainKafka.executor": "Run",
+    "Application.Medium_AccountMerge_721.executor": "Run",
+    "Application.Medium_AddOneRowToTree_623.executor": "Run",
+    "Application.Medium_AllPathFromSourceToTarget_797.executor": "Run",
+    "Application.Medium_BestTimeToBuyAndSellStockTwo_122.executor": "Run",
+    "Application.Medium_BestTimeToBuyAndSellStockWithTransactionFee_714.executor": "Run",
+    "Application.Medium_BinaryTreeRightSideView_199.executor": "Run",
+    "Application.Medium_CompareVersionNumbers_165.executor": "Run",
+    "Application.Medium_ContainerWithMostWater_11.executor": "Run",
+    "Application.Medium_CountSubIsland_1905.executor": "Run",
+    "Application.Medium_DecodeString_394.executor": "Run",
+    "Application.Medium_Dota2Senate_649.executor": "Run",
+    "Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101.executor": "Run",
+    "Application.Medium_EqualRowsAndColPair_2352.executor": "Run",
+    "Application.Medium_FindAllGroupsOfFarmLand_1992.executor": "Run",
+    "Application.Medium_FindTriangluarSumOfAnArray_2221.executor": "Run",
+    "Application.Medium_HouseRobberThree_337.executor": "Run",
+    "Application.Medium_HouseRobberTwo_213.executor": "Run",
+    "Application.Medium_HouseRobber_198.executor": "Run",
+    "Application.Medium_LexicographicallySmallestEquivalentString_1061.executor": "Run",
+    "Application.Medium_LongestIdealSubsequenceString_2370.executor": "Run",
+    "Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor": "Run",
+    "Application.Medium_MaxConsecutiveOnesByFlipping_1004.executor": "Run",
+    "Application.Medium_MaxNumberOfKPairSum_1679.executor": "Run",
+    "Application.Medium_MaximizeHappinessOfSelectedChildren_3075.executor": "Run",
+    "Application.Medium_MaximumCandiesAllocatedToKChildren_2226.executor": "Run",
+    "Application.Medium_MaximumProfitFromTradingStock_2291.executor": "Run",
+    "Application.Medium_MaximumTwinSumOfLinkedList_2130.executor": "Run",
+    "Application.Medium_MinimumHeightTree_310.executor": "Run",
+    "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
+    "Application.Medium_NumberOfIsland_200.executor": "Run",
+    "Application.Medium_NumberOfProvinces_547.executor": "Run",
+    "Application.Medium_NumberOfWonderfulSubString_1915.executor": "Run",
+    "Application.Medium_OddEvenList_328.executor": "Run",
+    "Application.Medium_PacificAtlanticWaterFlow_417.executor": "Run",
+    "Application.Medium_PaintHouse_256.executor": "Run",
+    "Application.Medium_ProductOfArrayExceptItself_238.executor": "Run",
+    "Application.Medium_PseudoPalindromicPathinBinaryTree_1457.executor": "Run",
+    "Application.Medium_RemoveKDigitFromNumber_402.executor": "Run",
+    "Application.Medium_ReverseWordsOfString_151.executor": "Run",
+    "Application.Medium_ShortestPathWithAlternativeColor_1129.executor": "Run",
+    "Application.Medium_SmallestStringStartingFromLeaf_988.executor": "Run",
+    "Application.Medium_StockSpanner_901.executor": "Run",
+    "Application.Medium_StringCompression_443.executor": "Run",
+    "Application.Medium_SumRootToLeafNode_129.executor": "Run",
+    "Application.Medium_TImeNeededToFindLongestEmployee_1376.executor": "Run",
+    "Application.Medium_WordSearch_79.executor": "Run",
+    "Application.MultiSearchString.executor": "Run",
+    "Application.TechRound.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/roshnib.48/Projects/GGSSC/data_structure_and_algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Expert_StringsMadeUpOfStrings">
+}]]></component>
+  <component name="RunManager" selected="Application.Easy_SumOfAllSubsetXORTotals_1863">
+    <configuration name="Easy_SumOfAllSubsetXORTotals_1863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_SumOfAllSubsetXORTotals_1863" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Expert_StringsMadeUpOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.algoexpert.tries.Expert_StringsMadeUpOfStrings" />
       <module name="data_structure_and_algorithm" />
@@ -186,26 +201,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_PacificAtlanticWaterFlow_417" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.graph.leetcode.matrix.Medium_PacificAtlanticWaterFlow_417" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.graph.leetcode.matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_SumOfAllSubsetXORTotals_1863" />
         <item itemvalue="Application.Expert_StringsMadeUpOfStrings" />
         <item itemvalue="Application.Hard_ShortestUniquePrefixes" />
         <item itemvalue="Application.Hard_LongestMostFrequentPrefix" />
         <item itemvalue="Application.Hard_MultiSearchString" />
-        <item itemvalue="Application.Medium_PacificAtlanticWaterFlow_417" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +234,7 @@
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
-      <workItem from="1716107806278" duration="381000" />
+      <workItem from="1716107806278" duration="3177000" />
     </task>
     <servers />
   </component>
