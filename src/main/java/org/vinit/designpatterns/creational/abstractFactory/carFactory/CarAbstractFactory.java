@@ -1,4 +1,8 @@
-package org.vinit.designpatterns.creational.abstractFactory;
+package org.vinit.designpatterns.creational.abstractFactory.carFactory;
+
+import org.vinit.designpatterns.creational.abstractFactory.CarModelEnum;
+import org.vinit.designpatterns.creational.abstractFactory.dashboard.AbstractDashboard;
+import org.vinit.designpatterns.creational.abstractFactory.tyre.AbstractTyre;
 
 public abstract class CarAbstractFactory {
     private static final TataHarrierToolKit TATA_HARRIER = new TataHarrierToolKit();
