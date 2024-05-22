@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/subset/Medium_SubsetTwo_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/matrix/Medium_NumberOfSpacesCleaningRobotCleaned_2061.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +105,7 @@
     "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
     "Application.Medium_NumberOfIsland_200.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
+    "Application.Medium_NumberOfSpacesCleaningRobotCleaned_2061.executor": "Run",
     "Application.Medium_NumberOfWonderfulSubString_1915.executor": "Run",
     "Application.Medium_OddEvenList_328.executor": "Run",
     "Application.Medium_PacificAtlanticWaterFlow_417.executor": "Run",
@@ -136,7 +137,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arintra_DesignHashMap">
+  <component name="RunManager" selected="Application.Medium_NumberOfSpacesCleaningRobotCleaned_2061">
     <configuration name="Arintra_DesignHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.interviews.Arintra_DesignHashMap" />
       <module name="data_structure_and_algorithm" />
@@ -176,19 +177,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard_LongestMostFrequentPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.algoexpert.tries.Hard_LongestMostFrequentPrefix" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.algoexpert.tries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Hard_ShortestUniquePrefixes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.algoexpert.tries.Hard_ShortestUniquePrefixes" />
       <module name="data_structure_and_algorithm" />
@@ -202,13 +190,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_NumberOfSpacesCleaningRobotCleaned_2061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.matrix.Medium_NumberOfSpacesCleaningRobotCleaned_2061" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_NumberOfSpacesCleaningRobotCleaned_2061" />
         <item itemvalue="Application.Arintra_DesignHashMap" />
         <item itemvalue="Application.Easy_SumOfAllSubsetXORTotals_1863" />
         <item itemvalue="Application.Expert_StringsMadeUpOfStrings" />
         <item itemvalue="Application.Hard_ShortestUniquePrefixes" />
-        <item itemvalue="Application.Hard_LongestMostFrequentPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +236,7 @@
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
-      <workItem from="1716107806278" duration="8721000" />
+      <workItem from="1716107806278" duration="9737000" />
     </task>
     <servers />
   </component>
