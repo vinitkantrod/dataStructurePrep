@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/ll/Medium_AddTwoNumbers_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/AbstractDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/AbstractFactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/AbstractTyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/CarAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/CarModelEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/KiaSeltosDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/KiaSeltosToolKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/KiaSeltosTyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/TataHarrierDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/TataHarrierToolKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/TataHarrierTyre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +29,7 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -237,7 +248,7 @@
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
-      <workItem from="1716107806278" duration="13476000" />
+      <workItem from="1716107806278" duration="15654000" />
     </task>
     <servers />
   </component>
