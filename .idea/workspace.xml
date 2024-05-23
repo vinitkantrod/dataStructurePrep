@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/AppleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/IPhone14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/IPhone14Pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/MobileMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/NullPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/PhoneStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/S23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/S23Ultra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/abstractFactory/SamsungFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/singleton/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/singleton/SingletonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/designpatterns/creational/singleton/StringSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +129,7 @@
     "Application.Medium_WordSearch_79.executor": "Run",
     "Application.MobileMain.executor": "Run",
     "Application.MultiSearchString.executor": "Run",
+    "Application.SingletonMain.executor": "Run",
     "Application.TechRound.executor": "Run",
     "Application.VehicleMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -155,7 +146,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MobileMain">
+  <component name="RunManager" selected="Application.SingletonMain">
     <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.abstractFactory.AbstractFactoryMain" />
       <module name="data_structure_and_algorithm" />
@@ -182,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_AddTwoNumbers_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.ll.Medium_AddTwoNumbers_2" />
+    <configuration name="MobileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.abstractFactory.MobileMain" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.leetcode.ll.*" />
+          <option name="PATTERN" value="org.vinit.designpatterns.creational.abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.abstractFactory.MobileMain" />
+    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.singleton.SingletonMain" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.designpatterns.creational.abstractFactory.*" />
+          <option name="PATTERN" value="org.vinit.designpatterns.creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.MobileMain" />
         <item itemvalue="Application.BankingMain" />
         <item itemvalue="Application.VehicleMain" />
         <item itemvalue="Application.AbstractFactoryMain" />
-        <item itemvalue="Application.Medium_AddTwoNumbers_2" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +245,7 @@
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
-      <workItem from="1716107806278" duration="24380000" />
+      <workItem from="1716107806278" duration="25188000" />
     </task>
     <servers />
   </component>
