@@ -1,4 +1,4 @@
-package org.vinit.datastructure.leetcode.array;
+package org.vinit.datastructure.leetcode.array.trappingWater;
 
 public class Medium_ContainerWithMostWater_11 {
 
