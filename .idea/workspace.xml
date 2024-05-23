@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode75/dp1D/Easy_MinCostClimbingStair_746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode75/dp1D/Easy_MinCostClimbingStair_746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/dp/decisionMaking/Medium_DeleteAndEarn_740.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +243,7 @@
       <workItem from="1715685472494" duration="11774000" />
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
-      <workItem from="1716107806278" duration="27896000" />
+      <workItem from="1716107806278" duration="29322000" />
     </task>
     <servers />
   </component>
