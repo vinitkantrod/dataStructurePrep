@@ -6,7 +6,7 @@ public class PersonalAccount implements BankAccount {
     public Long accountLimit;
     public PersonalAccount(double interestRate, Long accNumber) {
         this.interestRate = interestRate;
-        this.accountLimit = 1_000_00L;
+        this.accountLimit = 99_999L;
         this.accNumber = accNumber;
     }
     @Override
