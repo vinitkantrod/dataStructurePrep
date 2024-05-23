@@ -21,7 +21,7 @@ Intent:
 
 ### Example
 Create account at bank.
-Accounts could be of 3 types (PersonalAcc, BusinessAcc, CheckingAcc)
+Accounts could be of 3 types (PersonalAcc, BusinessAcc)
 Accounts could be open at local branch or foreign branch
 
 ### Discussion
