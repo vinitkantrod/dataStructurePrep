@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Hard_SlidingWindowMedian_480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Hard_SlidingWindowMedian_480.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,7 +241,7 @@
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
       <workItem from="1716107806278" duration="29902000" />
-      <workItem from="1716521826809" duration="4533000" />
+      <workItem from="1716521826809" duration="5130000" />
     </task>
     <servers />
   </component>
