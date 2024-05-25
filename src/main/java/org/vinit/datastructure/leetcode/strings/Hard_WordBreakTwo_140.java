@@ -11,7 +11,7 @@ public class Hard_WordBreakTwo_140 {
         backtrack(s, wordSet, new StringBuilder(), results, 0);
         return results;
     }
-    private void backtrack(
+    private static void backtrack(
             String s,
             Set<String> wordSet,
             StringBuilder currentSentence,
