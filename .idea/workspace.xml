@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/dp/Hard_StudentAttendanceRecordTwo_552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.Easy_RelativeRank_506.executor": "Run",
     "Application.Easy_ReverseVowelsOfString_345.executor": "Run",
     "Application.Easy_SimpleMergeSort.executor": "Run",
+    "Application.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608.executor": "Run",
     "Application.Easy_SumOfAllSubsetXORTotals_1863.executor": "Run",
     "Application.Easy_SumOfLeftLeaves_404.executor": "Run",
     "Application.Easy_TimeNeededToBuyTicket_2073.executor": "Run",
@@ -146,13 +147,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hard_WordBreakTwo_140">
-    <configuration name="BankingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.factory.BankingMain" />
+  <component name="RunManager" selected="Application.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608">
+    <configuration name="Easy_MostVisitedSectorInTrack_1560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_MostVisitedSectorInTrack_1560" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.designpatterns.creational.factory.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_MostVisitedSectorInTrack_1560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_MostVisitedSectorInTrack_1560" />
+    <configuration name="Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -214,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608" />
         <item itemvalue="Application.Hard_WordBreakTwo_140" />
         <item itemvalue="Application.Easy_MostVisitedSectorInTrack_1560" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.MobileMain" />
-        <item itemvalue="Application.BankingMain" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,7 @@
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
       <workItem from="1716107806278" duration="29902000" />
-      <workItem from="1716521826809" duration="15880000" />
+      <workItem from="1716521826809" duration="18781000" />
     </task>
     <servers />
   </component>
