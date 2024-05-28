@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/strings/Medium_MinimumNumberOfKeypresses_2268.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +246,7 @@
       <workItem from="1715769142004" duration="490000" />
       <workItem from="1715851515205" duration="22639000" />
       <workItem from="1716107806278" duration="29902000" />
-      <workItem from="1716521826809" duration="19505000" />
+      <workItem from="1716521826809" duration="20201000" />
     </task>
     <servers />
   </component>
