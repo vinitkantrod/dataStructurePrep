@@ -3,9 +3,21 @@ package org.vinit.datastructure.leetcode.array;
 public class Medium_MinimumMovesToReachTarget_2139 {
 
     public static int minMoves(int target, int maxDoubles) {
-        if (target == 1) return 0;
-        int starting = 1;
-        return countMoves(starting, target, 0, maxDoubles);
+        int c=0;
+        while(maxDoubles!=0 && target!=1) {
+            if(target%2!=0) {
+                c++;
+                target-=1;
+            }
+            target=target/2;
+            c++;
+            maxDoubles--;
+        }
+        if(target!=1) c+=target-1;
+        return c;
+//        if (target == 1) return 0;
+//        int starting = 1;
+//        return countMoves(starting, target, 0, maxDoubles);
     }
     private static int countMoves(int curr, int target, int steps, int maxDoubles) {
 //        System.out.println("Curr: " + curr + ", steps: " + steps + ", DC: " + maxDoubles + ", T: " + target );
