@@ -1,8 +1,8 @@
-package org.vinit;
+package org.vinit.datastructure.leetcode.ll;
 
 import java.util.PriorityQueue;
 
-public class MergeKLL {
+public class Hard_MergeKSortedLinkedList {
 
     public class ListNode {
       int val;

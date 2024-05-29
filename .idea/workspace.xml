@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/MergeKLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/strings/Medium_NumberOfStepsToReduceANumberInBin_1404.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/MergeKLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/ll/Hard_MergeKSortedLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +115,7 @@
     "Application.Medium_NumberOfIsland_200.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
     "Application.Medium_NumberOfSpacesCleaningRobotCleaned_2061.executor": "Run",
+    "Application.Medium_NumberOfStepsToReduceANumberInBin_1404.executor": "Run",
     "Application.Medium_NumberOfWonderfulSubString_1915.executor": "Run",
     "Application.Medium_OddEvenList_328.executor": "Run",
     "Application.Medium_PacificAtlanticWaterFlow_417.executor": "Run",
@@ -148,7 +150,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Easy_ArmstrongNumber_1134">
+  <component name="RunManager" selected="Application.Medium_NumberOfStepsToReduceANumberInBin_1404">
     <configuration name="Easy_ArmstrongNumber_1134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_ArmstrongNumber_1134" />
       <module name="data_structure_and_algorithm" />
@@ -201,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.designpatterns.creational.singleton.SingletonMain" />
+    <configuration name="Medium_NumberOfStepsToReduceANumberInBin_1404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.strings.Medium_NumberOfStepsToReduceANumberInBin_1404" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.designpatterns.creational.singleton.*" />
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_NumberOfStepsToReduceANumberInBin_1404" />
         <item itemvalue="Application.Easy_ArmstrongNumber_1134" />
         <item itemvalue="Application.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608" />
         <item itemvalue="Application.Hard_WordBreakTwo_140" />
         <item itemvalue="Application.Easy_MostVisitedSectorInTrack_1560" />
-        <item itemvalue="Application.SingletonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +251,7 @@
       <workItem from="1715851515205" duration="22639000" />
       <workItem from="1716107806278" duration="29902000" />
       <workItem from="1716521826809" duration="20201000" />
-      <workItem from="1716876115898" duration="6278000" />
+      <workItem from="1716876115898" duration="8459000" />
     </task>
     <servers />
   </component>
