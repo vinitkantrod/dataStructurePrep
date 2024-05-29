@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/strings/Medium_NumberOfStepsToReduceANumberInBin_1404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Medium_MinimumMovesToReachTarget_2139.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/MergeKLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/ll/Hard_MergeKSortedLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +110,7 @@
     "Application.Medium_MaximumProfitFromTradingStock_2291.executor": "Run",
     "Application.Medium_MaximumTwinSumOfLinkedList_2130.executor": "Run",
     "Application.Medium_MinimumHeightTree_310.executor": "Run",
+    "Application.Medium_MinimumMovesToReachTarget_2139.executor": "Run",
     "Application.Medium_NumberOfConnectedComponent_323.executor": "Run",
     "Application.Medium_NumberOfIsland_200.executor": "Run",
     "Application.Medium_NumberOfProvinces_547.executor": "Run",
@@ -150,22 +150,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_NumberOfStepsToReduceANumberInBin_1404">
+  <component name="RunManager" selected="Application.Medium_MinimumMovesToReachTarget_2139">
     <configuration name="Easy_ArmstrongNumber_1134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_ArmstrongNumber_1134" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Easy_MostVisitedSectorInTrack_1560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_MostVisitedSectorInTrack_1560" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -203,6 +190,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Medium_MinimumMovesToReachTarget_2139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Medium_MinimumMovesToReachTarget_2139" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Medium_NumberOfStepsToReduceANumberInBin_1404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.strings.Medium_NumberOfStepsToReduceANumberInBin_1404" />
       <module name="data_structure_and_algorithm" />
@@ -218,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_MinimumMovesToReachTarget_2139" />
         <item itemvalue="Application.Medium_NumberOfStepsToReduceANumberInBin_1404" />
         <item itemvalue="Application.Easy_ArmstrongNumber_1134" />
         <item itemvalue="Application.Easy_SpecialArrayWithXEleGreaterThanOrEqualX_1608" />
         <item itemvalue="Application.Hard_WordBreakTwo_140" />
-        <item itemvalue="Application.Easy_MostVisitedSectorInTrack_1560" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,7 @@
       <workItem from="1715851515205" duration="22639000" />
       <workItem from="1716107806278" duration="29902000" />
       <workItem from="1716521826809" duration="20201000" />
-      <workItem from="1716876115898" duration="8459000" />
+      <workItem from="1716876115898" duration="10290000" />
     </task>
     <servers />
   </component>
