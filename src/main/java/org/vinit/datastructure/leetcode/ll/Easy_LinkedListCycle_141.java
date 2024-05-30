@@ -13,13 +13,26 @@ public class Easy_LinkedListCycle_141 {
         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
     public boolean hasCycle(ListNode head) {
-        Set<ListNode> set = new HashSet<>();
+//        Set<ListNode> set = new HashSet<>();
+//        ListNode slow = head;
+//        while (!set.contains(slow)) {
+//            if (slow == null) return false;
+//            set.add(slow);
+//            slow = slow.next;
+//        }
+//        return true;
+        ListNode fast = head;
         ListNode slow = head;
-        while (!set.contains(slow)) {
-            if (slow == null) return false;
-            set.add(slow);
+
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
             slow = slow.next;
+
+            if (fast == slow) {
+                return true;
+            }
         }
-        return true;
+
+        return false;
     }
 }
