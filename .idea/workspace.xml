@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Medium_SearchInRotatedSortedArray_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Medium_FindFirstAndLastPosOfEleInArray_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,7 @@
     "Application.Medium_EarliestMomentWhenEveryoneBecomesFriends_1101.executor": "Run",
     "Application.Medium_EqualRowsAndColPair_2352.executor": "Run",
     "Application.Medium_FindAllGroupsOfFarmLand_1992.executor": "Run",
+    "Application.Medium_FindFirstAndLastPosOfEleInArray_34.executor": "Run",
     "Application.Medium_FindTriangluarSumOfAnArray_2221.executor": "Run",
     "Application.Medium_HouseRobberThree_337.executor": "Run",
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
@@ -151,9 +153,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_SearchInRotatedSortedArray_33">
-    <configuration name="Easy_ArmstrongNumber_1134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Easy_ArmstrongNumber_1134" />
+  <component name="RunManager" selected="Application.Medium_FindFirstAndLastPosOfEleInArray_34">
+    <configuration name="Medium_FindFirstAndLastPosOfEleInArray_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.array.Medium_FindFirstAndLastPosOfEleInArray_34" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -219,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_FindFirstAndLastPosOfEleInArray_34" />
         <item itemvalue="Application.Medium_SearchInRotatedSortedArray_33" />
         <item itemvalue="Application.Medium_IsTreeABST" />
         <item itemvalue="Application.Medium_MinimumMovesToReachTarget_2139" />
         <item itemvalue="Application.Medium_NumberOfStepsToReduceANumberInBin_1404" />
-        <item itemvalue="Application.Easy_ArmstrongNumber_1134" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +255,7 @@
       <workItem from="1716107806278" duration="29902000" />
       <workItem from="1716521826809" duration="20201000" />
       <workItem from="1716876115898" duration="10631000" />
-      <workItem from="1716992757338" duration="37776000" />
+      <workItem from="1716992757338" duration="39313000" />
     </task>
     <servers />
   </component>
