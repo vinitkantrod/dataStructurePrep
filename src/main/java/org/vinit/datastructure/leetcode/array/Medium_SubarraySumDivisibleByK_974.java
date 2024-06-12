@@ -18,7 +18,6 @@ public class Medium_SubarraySumDivisibleByK_974 {
             result += modGroups[prefixMod];
             modGroups[prefixMod]++;
         }
-
         return result;
     }
 }

@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/array/Medium_SubarraySumDivisibleByK_974.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +258,7 @@
       <workItem from="1716992757338" duration="41183000" />
       <workItem from="1717655728954" duration="1379000" />
       <workItem from="1717699950303" duration="8880000" />
-      <workItem from="1717894012997" duration="156000" />
+      <workItem from="1717894012997" duration="2987000" />
     </task>
     <servers />
   </component>
