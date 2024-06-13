@@ -14,7 +14,7 @@ public class ATM {
         this.bankingService = bs;
         this.cashDispenser = cd;
     }
-    public void AuthenticateUser(Card card) {
+    public void AuthenticateCard(Card card) {
         // authentication logic
 
     }
@@ -24,12 +24,29 @@ public class ATM {
     public void withdrawCash(String acc, Double amount) {
         Account account = bankingService.getAccount(acc);
         Transaction transaction = new WithdrawTransaction(generateTransactionId(), account, amount);
+        Boolean isTransactionSuccess = true;
+        Boolean isAmountDebited = false;
+        try {
+            bankingService.processTransaction(transaction);
+            isAmountDebited = true;
+        } catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage());
+            isTransactionSuccess = false;
+            return;
+        }
         try {
             cashDispenser.dispenseCash(amount);
         } catch (IllegalArgumentException e) {
-            throw new IllegalArgumentException(e.getMessage());
+            System.out.println(e.getMessage());
+            isTransactionSuccess = false;
         }
-        bankingService.processTransaction(transaction);
+        if (!isTransactionSuccess) {
+            if(isAmountDebited) {
+                Transaction txn = new DepositeTransaction(generateTransactionId(), account, amount);
+                // What if this process fails.
+                bankingService.processTransaction(txn);
+            }
+        }
     }
     public void depositeCash(String acc, Double amount) {
         Account account = bankingService.getAccount(acc);

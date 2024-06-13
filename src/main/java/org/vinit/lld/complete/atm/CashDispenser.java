@@ -11,6 +11,6 @@ public class CashDispenser {
             throw new IllegalArgumentException("Not enough cash available in the ATM.");
         }
         cashAvailable -= amount;
-        System.out.println("Cash Dispensed: " + amount);
+        System.out.println("Cash Dispensed: " + amount+". Remaining Bal: " + cashAvailable);
     }
 }
