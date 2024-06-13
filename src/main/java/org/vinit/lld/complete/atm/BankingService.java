@@ -8,6 +8,7 @@ public class BankingService {
     public BankingService() {}
 
     public void createAccount(String acc, Double bal) {
+        System.out.println("Creating New Account for " + acc);
         accounts.put(acc, new Account(acc, bal));
     }
     public Account getAccount(String accNo) {
