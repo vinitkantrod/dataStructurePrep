@@ -14,4 +14,8 @@ public class BankingService {
     public Account getAccount(String accNo) {
         return accounts.getOrDefault(accNo, null);
     }
+
+    public void processTransaction(Transaction transaction) {
+        transaction.execute();
+    }
 }
