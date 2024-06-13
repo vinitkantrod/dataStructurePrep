@@ -9,7 +9,9 @@ public class Account {
         this.accountNumber = accNo;
         this.balance = balance;
     }
-    private Double getBalance() {return this.balance;}
-    private String getAccountNumber() {return this.accountNumber;}
+    public Double getBalance() {return this.balance;}
+    public String getAccountNumber() {return this.accountNumber;}
 
+    public void debit(Double a) {balance -= a;}
+    public void credit(Double a) {balance += a;}
 }
