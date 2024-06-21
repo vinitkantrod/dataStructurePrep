@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/arrays/Medium_RemoveDuplicatedFromSortedArrayTwo_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/arrays/Easy_MajorityElement_169.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Application.Easy_ImplementQueueUsingStack_232.executor": "Run",
     "Application.Easy_IntersectionOfTwoArrays_349.executor": "Run",
     "Application.Easy_IslandPerimeter_463.executor": "Run",
+    "Application.Easy_MajorityElement_169.executor": "Run",
     "Application.Easy_MinCostClimbingStair_746.executor": "Run",
     "Application.Easy_MinMaxGame_2293.executor": "Run",
     "Application.Easy_MostVisitedSectorInTrack_1560.executor": "Run",
@@ -131,6 +132,7 @@
     "Application.Medium_PaintHouse_256.executor": "Run",
     "Application.Medium_ProductOfArrayExceptItself_238.executor": "Run",
     "Application.Medium_PseudoPalindromicPathinBinaryTree_1457.executor": "Run",
+    "Application.Medium_RemoveDuplicatedFromSortedArrayTwo_80.executor": "Run",
     "Application.Medium_RemoveKDigitFromNumber_402.executor": "Run",
     "Application.Medium_ReverseWordsOfString_151.executor": "Run",
     "Application.Medium_SearchInRotatedSortedArray_33.executor": "Run",
@@ -161,9 +163,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_RemoveDuplicatedFromSortedArrayTwo_80">
+  <component name="RunManager" selected="Application.Easy_MajorityElement_169">
     <configuration name="Easy_ApplyAllOperationToArray_2460" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.arrays.Easy_ApplyAllOperationToArray_2460" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.leetcode150.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Easy_MajorityElement_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.arrays.Easy_MajorityElement_169" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -214,26 +229,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_TakeKOfEachCharFromLeftOrRight_2516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.strings.Medium_TakeKOfEachCharFromLeftOrRight_2516" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.leetcode.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_MajorityElement_169" />
         <item itemvalue="Application.Medium_RemoveDuplicatedFromSortedArrayTwo_80" />
         <item itemvalue="Application.Easy_ApplyAllOperationToArray_2460" />
         <item itemvalue="Application.Easy_RemoveDuplicatesFromArray_26" />
         <item itemvalue="Application.Easy_RemoveElement_27" />
-        <item itemvalue="Application.Medium_TakeKOfEachCharFromLeftOrRight_2516" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +271,7 @@
       <workItem from="1717894012997" duration="7550000" />
       <workItem from="1718280001477" duration="10125000" />
       <workItem from="1718498120487" duration="5437000" />
-      <workItem from="1718796801278" duration="13283000" />
+      <workItem from="1718796801278" duration="14465000" />
     </task>
     <servers />
   </component>
