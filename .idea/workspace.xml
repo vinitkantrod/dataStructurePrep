@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/arrays/Medium_JumpGameTwo_45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/arrays/Medium_RotateArray_189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/arrays/Medium_RotateArray_189.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +108,7 @@
     "Application.Medium_HouseRobberTwo_213.executor": "Run",
     "Application.Medium_HouseRobber_198.executor": "Run",
     "Application.Medium_IsTreeABST.executor": "Run",
+    "Application.Medium_JumpGameTwo_45.executor": "Run",
     "Application.Medium_LexicographicallySmallestEquivalentString_1061.executor": "Run",
     "Application.Medium_LongestIdealSubsequenceString_2370.executor": "Run",
     "Application.Medium_LongestSubstringWithAtMostTwoDistinctChar_159.executor": "Run",
@@ -163,7 +164,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Easy_MajorityElement_169">
+  <component name="RunManager" selected="Application.Medium_JumpGameTwo_45">
     <configuration name="Easy_ApplyAllOperationToArray_2460" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.arrays.Easy_ApplyAllOperationToArray_2460" />
       <module name="data_structure_and_algorithm" />
@@ -203,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy_RemoveElement_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.arrays.Easy_RemoveElement_27" />
+    <configuration name="Medium_JumpGameTwo_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.arrays.Medium_JumpGameTwo_45" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -231,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_JumpGameTwo_45" />
         <item itemvalue="Application.Easy_MajorityElement_169" />
         <item itemvalue="Application.Medium_RemoveDuplicatedFromSortedArrayTwo_80" />
         <item itemvalue="Application.Easy_ApplyAllOperationToArray_2460" />
         <item itemvalue="Application.Easy_RemoveDuplicatesFromArray_26" />
-        <item itemvalue="Application.Easy_RemoveElement_27" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +272,7 @@
       <workItem from="1717894012997" duration="7550000" />
       <workItem from="1718280001477" duration="10125000" />
       <workItem from="1718498120487" duration="5437000" />
-      <workItem from="1718796801278" duration="16263000" />
+      <workItem from="1718796801278" duration="16863000" />
     </task>
     <servers />
   </component>
