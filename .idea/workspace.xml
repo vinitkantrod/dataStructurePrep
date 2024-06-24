@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/slidingWindow/Medium_MinSizeSubArraySum_209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/slidingWindow/Medium_LongestSubStringWithoutRepeatingChar_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +276,7 @@
       <workItem from="1718280001477" duration="10125000" />
       <workItem from="1718498120487" duration="5437000" />
       <workItem from="1718796801278" duration="28517000" />
-      <workItem from="1719224799196" duration="3662000" />
+      <workItem from="1719224799196" duration="4816000" />
     </task>
     <servers />
   </component>
