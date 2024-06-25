@@ -19,14 +19,25 @@ public class Medium_ConvertBSTToGreaterTree_538 {
         }
     }
     public TreeNode convertBST(TreeNode root) {
-        TreeNode rootCopy = root;
-        Map<Integer, TreeNode> nodeMap = new HashMap<>();
-        List<Integer> sortedArr = new ArrayList<>();
-        // create Sorted Array;
-        inOrderTraverse(root, sortedArr, nodeMap);
-        // traverse and update node to greaterNode
-        updateNodeToGreater(sortedArr, nodeMap);
-        return rootCopy;
+//        TreeNode rootCopy = root;
+//        Map<Integer, TreeNode> nodeMap = new HashMap<>();
+//        List<Integer> sortedArr = new ArrayList<>();
+//        // create Sorted Array;
+//        inOrderTraverse(root, sortedArr, nodeMap);
+//        // traverse and update node to greaterNode
+//        updateNodeToGreater(sortedArr, nodeMap);
+//        return rootCopy;
+
+        int[] nodeSum = new int[1];
+        bstToGreater(root, nodeSum);
+        return root;
+    }
+    private void bstToGreater(TreeNode node, int[] nodeSum) {
+        if (node == null) return;
+        bstToGreater(node.right, nodeSum);
+        nodeSum[0] += node.val;
+        node.val = nodeSum[0];
+        bstToGreater(node.left, nodeSum);
     }
 
     private void inOrderTraverse(TreeNode node, List<Integer> arr, Map<Integer, TreeNode> map) {
