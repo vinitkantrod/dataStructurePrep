@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/leetcode150/bst/Medium_ZigZagTraversal_103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinit/datastructure/leetcode/graph/Medium_AllAncestorOfNodeInDirectedAcyclicGraph_2192.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +282,7 @@
       <workItem from="1718498120487" duration="5437000" />
       <workItem from="1718796801278" duration="28517000" />
       <workItem from="1719224799196" duration="19695000" />
-      <workItem from="1719397186861" duration="19379000" />
+      <workItem from="1719397186861" duration="22289000" />
     </task>
     <servers />
   </component>
