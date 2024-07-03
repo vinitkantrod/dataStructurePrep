@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ef52273b-a03a-45b4-bde2-caeba66c8af6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/SnakeAndLadderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/SnakeAndLadderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/SnakeAndLadderGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinit/lld/snakeAndLadder/SnakeAndLadderGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +159,7 @@
     "Application.MobileMain.executor": "Run",
     "Application.MultiSearchString.executor": "Run",
     "Application.SingletonMain.executor": "Run",
+    "Application.SnakeAndLadderDemo.executor": "Run",
     "Application.TechRound.executor": "Run",
     "Application.VehicleMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -162,7 +167,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sagar/Downloads/test",
+    "last_opened_file_path": "C:/Users/sagar/OneDrive/Documents/GitHub/dataStructurePrep",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -171,26 +176,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Medium_MaximumTotalImportanceOfRoad_2285">
+  <component name="RunManager" selected="Application.SnakeAndLadderDemo">
     <configuration name="Hard_BasicCalculator_224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.stack.Hard_BasicCalculator_224" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.vinit.datastructure.leetcode.leetcode150.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium_LongestCommonSubsequence_128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.leetcode150.hashMap.Medium_LongestCommonSubsequence_128" />
-      <module name="data_structure_and_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinit.datastructure.leetcode.leetcode150.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,13 +229,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SnakeAndLadderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.lld.snakeAndLadder.SnakeAndLadderDemo" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.lld.snakeAndLadder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SnakeAndLadderDemo" />
         <item itemvalue="Application.Medium_MaximumTotalImportanceOfRoad_2285" />
         <item itemvalue="Application.Medium_NextGreaterNodeInLinkedList_1019" />
         <item itemvalue="Application.Hard_BasicCalculator_224" />
         <item itemvalue="Application.Medium_SimplifyPath_71" />
-        <item itemvalue="Application.Medium_LongestCommonSubsequence_128" />
       </list>
     </recent_temporary>
   </component>

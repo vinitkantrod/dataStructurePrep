@@ -24,13 +24,11 @@ public class Board {
         if (isPositionValid(x) && isPositionValid(y))
             ladders.put(x, y);
     }
-
-    public Integer roll() {
-        return dice.roll();
+    public boolean isSnakeExist(int pos) {
+        return snakes.get(pos) != null;
     }
-
-    public void move(Player player) {
-
+    public boolean isLadderExist(int pos) {
+        return ladders.get(pos) != null;
     }
 
     private boolean isPositionValid(int pos) {

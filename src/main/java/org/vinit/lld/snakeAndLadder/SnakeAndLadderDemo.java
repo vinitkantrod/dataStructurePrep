@@ -8,19 +8,21 @@ public class SnakeAndLadderDemo {
         SnakeAndLadderGame game = new SnakeAndLadderGame();
         int numberOfSnake = sc.nextInt();
         while (numberOfSnake > 0) {
-            String[] position = sc.nextLine().split(" ");
-            game.addSnake(Integer.parseInt(position[0]), Integer.parseInt(position[1]));
+            int start = sc.nextInt();
+            int end = sc.nextInt();
+            game.addSnake(start, end);
             numberOfSnake--;
         }
         int numberOfLadder = sc.nextInt();
         while (numberOfLadder > 0) {
-            String[] position = sc.nextLine().split(" ");
-            game.addLadder(Integer.parseInt(position[0]), Integer.parseInt(position[1]));
+            int start = sc.nextInt();
+            int end = sc.nextInt();
+            game.addLadder(start, end);
             numberOfLadder--;
         }
         int numberOfPlayer = sc.nextInt();
         while (numberOfPlayer > 0) {
-            String player = sc.nextLine();
+            String player = sc.next();
             game.addPlayer(player);
             numberOfPlayer--;
         }
