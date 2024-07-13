@@ -51,7 +51,7 @@ public class Hard_RobotCollision_2751 {
 //        return result;
 //    }
 
-    public List<Integer> survivedRobotsHealths(
+    public static List<Integer> survivedRobotsHealths(
             int[] positions,
             int[] healths,
             String directions
