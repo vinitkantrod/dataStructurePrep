@@ -34,22 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Easy_DesignOrderedStream_1656.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Easy_DesignOrderedStream_1656.executor": "Run",
+    "Application.Hard_RobotCollision_2751.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Hard_RobotCollision_2751">
     <configuration name="Easy_DesignOrderedStream_1656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.design.Easy_DesignOrderedStream_1656" />
       <module name="data_structure_and_algorithm" />
@@ -63,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hard_RobotCollision_2751" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinit.datastructure.leetcode.stack.Hard_RobotCollision_2751" />
+      <module name="data_structure_and_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinit.datastructure.leetcode.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hard_RobotCollision_2751" />
         <item itemvalue="Application.Easy_DesignOrderedStream_1656" />
       </list>
     </recent_temporary>
@@ -89,7 +104,7 @@
       <workItem from="1720595514609" duration="1547000" />
       <workItem from="1720684863737" duration="2106000" />
       <workItem from="1720764331740" duration="44000" />
-      <workItem from="1720806028161" duration="425000" />
+      <workItem from="1720806028161" duration="2031000" />
     </task>
     <servers />
   </component>
