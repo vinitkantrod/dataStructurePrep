@@ -79,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="LoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinit.LoopTest" />
+      <option name="MAIN_CLASS_NAME" value="org.vinit.practice.LoopTest" />
       <module name="data_structure_and_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinit.*" />
+          <option name="PATTERN" value="org.vinit.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,7 +122,7 @@
       <workItem from="1720806028161" duration="3278000" />
       <workItem from="1721005853352" duration="231000" />
       <workItem from="1721227208268" duration="1411000" />
-      <workItem from="1721303019834" duration="4145000" />
+      <workItem from="1721303019834" duration="4446000" />
     </task>
     <servers />
   </component>
