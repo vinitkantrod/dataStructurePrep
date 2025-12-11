@@ -1,6 +1,6 @@
 package org.vinit.datastructure.algoexpert.arrays;
 
-public class SortedSquareArray {
+public class Easy_SortedSquareArray {
 
     public int[] sortedSquaredArray(int[] array) {
         // Write your code here.

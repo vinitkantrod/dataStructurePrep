@@ -3,7 +3,7 @@ package org.vinit.datastructure.algoexpert.arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoNumberSum {
+public class Easy_TwoNumberSum {
 
     public static int[] twoNumberSum(int[] array, int targetSum) {
         // Write your code here.

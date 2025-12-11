@@ -2,7 +2,7 @@ package org.vinit.datastructure.algoexpert.arrays;
 
 import java.util.List;
 
-public class ValidateSubsequence {
+public class Easy_ValidateSubsequence {
 
     public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {
         // Write your code here.
